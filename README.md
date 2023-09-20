@@ -1,4 +1,4 @@
-## Employee Management System
+## Course Management System
 Implemented a console-based student management system with three main user toles in the application: \
 \
 a) An employee can log in to their account, view/add/drop courses, check their course schedule, and view grades;\
